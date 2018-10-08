@@ -1,0 +1,12 @@
+
+
+input{padding: 10px;}
+body{background-image: url(a.jpg);list-style: none}
+button{background-color: rgb(37, 151, 2);}
+#man{background-color: aqua;}
+#jenny{background-color: aqua;}
+#mustafa{color: blue;}
+#sam{background-color: blueviolet;}
+button{margin-left: auto; margin-right: auto}
+footer{text-align: center;}
+ul,li{list-style: none;text-align: center;}
